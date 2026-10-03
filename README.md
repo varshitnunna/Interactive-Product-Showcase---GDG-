@@ -2,6 +2,8 @@
 
 > *"Sound. In its finest form."*
 
+> Project link - https://misty-embeds-539797.framer.app
+
 This repository contains my submission for the **Google Developer Groups on Campus SRM Recruitments 2026 – Technical Domain**[cite: 2].
 
 ## Project Overview
